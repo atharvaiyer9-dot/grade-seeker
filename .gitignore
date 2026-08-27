@@ -1,0 +1,11 @@
+# Dependencies and Next.js output
+node_modules/
+.next/
+out/
+
+# Local environment configuration and logs
+.env*.local
+*.log
+
+# Operating-system files
+.DS_Store
